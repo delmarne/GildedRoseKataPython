@@ -1,0 +1,9 @@
+#Ignore compiled python code
+.pyc
+#ignore compiled class files
+.class
+#Ignore build output directories
+/bin
+/out
+/target
+
